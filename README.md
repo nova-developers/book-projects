@@ -1,8 +1,8 @@
-## Agilex Book Club Projects Repo 
+## NoVA Book Club Projects Repo 
 
 ----  
 
-[agilex-book-club.github.io](http://agilex-book-club.github.io)  
+[nova-developers.github.io](http://nova-developers.github.io)  
 
 Ths is the repository were notes, exercises, and projects will be stored.  
 
@@ -11,7 +11,7 @@ Ths is the repository were notes, exercises, and projects will be stored.
 
 ### Overview  
 This book club is intended to give developers in the Virginia area, mainly those
-who work at [Agilex Technologies](http://www.agilex.com), a place to continue
+who work at [NoVA Technologies](http://www.agilex.com), a place to continue
 their developers skills. Whether it be development or learning new processes, we
 intend for this to be an experience that won't take up much time, rather have
 each developer to learn more than they would while in the work environment.  
