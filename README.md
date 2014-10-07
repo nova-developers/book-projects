@@ -22,17 +22,23 @@ end
 
 ```ruby
 
-=> languages = ['ruby', 'java', 'perl']
+>> languages = ['ruby', 'java', 'perl']
 => ["ruby", "java", "perl"]
-=> puts languages
+>> puts languages
 ruby
 java
 perl
 => nil
-=> languages[0]
+>> languages[0]
 => "ruby"
+>> languages[0..1]
+=> ['ruby', 'java']
+>> languages[-1]
+=> "perl"
 
 ```
-
+1. access undefined and Ruby will return `nil`
+2. the `0..1` is what is considered a range
+3. multidimensional arrays are arrays of arrays
 
 ### 
