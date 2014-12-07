@@ -1,0 +1,15 @@
+<h1>Playtime#playtime</h1>
+<p>
+	Addition: <%= 1+2 %>
+</p>
+<p>
+	Concatenation: <%= "cow" + "boy" %>
+</p>
+<p>
+	Time in ome hour: <%= 1.hour.from_now.localtime %>
+</p>
+<p><ul>
+	<% for file in @files %>
+		<li>file name is: <%= file %></li>
+	<% end %>
+</ul></p>
